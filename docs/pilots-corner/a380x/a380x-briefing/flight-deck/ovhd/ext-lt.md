@@ -32,8 +32,6 @@ The Exterior Lighting of an Airbus A380 includes these lights:
 
 ### External lighting configuration:
 
-[//]: # (TODO)
-<p style="color:yellow; font-size:18px;">TODO: Update this table for A380X</p>
 ![External Lighting Configurations](../../../assets/a380x-briefing/flight-deck/ovhd/ext-lt-table.png "External Lighting Configurations"){loading=lazy}
 
 ## Usage
