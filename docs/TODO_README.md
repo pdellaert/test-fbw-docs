@@ -99,6 +99,7 @@ is good enough for now but might be improved in the future.
         - [X] [Beginner Guide](pilots-corner/a380x/a380x-beginner-guide/overview.md)
             - [X] [Chapters ...](pilots-corner/a380x/a380x-beginner-guide/overview.md)
         - [X] [Advanced Guides](pilots-corner/a380x/a380x-advanced-guides/overview.md)
+            - [ ] <span style="color: red;">TODO: Move from A32NX Advanced Guides to here when they need a separate page</span>
             - [X] [OANS / BTV](pilots-corner/a380x/a380x-advanced-guides/oans-btv.md)
         - [X] [A380X Pilot Briefing](pilots-corner/a380x/a380x-briefing/index.md)
             - [X] [Flight-Deck](pilots-corner/a380x/a380x-briefing/flight-deck/index.md)
