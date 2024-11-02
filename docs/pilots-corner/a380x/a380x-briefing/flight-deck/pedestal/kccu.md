@@ -92,6 +92,20 @@ When pressed, moves the cursor to the ND.
 Moves the cursor to the display unit that is to the right, or to the left, of the one that is currently selected 
 (if applicable).
 
+### CCD sw
+
+-ON:
+    - The KCCU cursor control device (trackball) is active.
+-OFF:
+    - The KCCU cursor control device is inactive.
+
+### KCCU sw
+
+-ON:
+    - The KCCU keyboard is active.
+-OFF:
+    - The KCCU keyboard is inactive.
+
 ---
 
 [Back to Pedestal](../overviews/pedestal.md){ .md-button }
