@@ -144,6 +144,7 @@ is good enough for now but might be improved in the future.
         - [ ] locPak for MSFS <span style="color: red;">TODO</span>
     - [ ] Documentation Guide <span style="color: red;">TODO</span>
     - [ ] Livery Creators Guide <span style="color: red;">TODO</span>
+        - [ ] A380X PaintKit <span style="color: red;">TODO</span>
     - [ ] Other <span style="color: red;">TODO</span>
     - [X] [FlyByWire Projects](dev-corner/development-projects/index.md)
         - [X] [Overview](dev-corner/development-projects/index.md)
