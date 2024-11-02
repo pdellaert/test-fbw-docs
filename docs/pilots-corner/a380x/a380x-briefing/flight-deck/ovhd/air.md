@@ -80,7 +80,7 @@ description: The A380 Flight Deck Air Panel description.
     - When the differential pressure is lower than 1 PSI: Each outflow valve will open to approximately 20%.
     - When the differential pressure is higher than 1 PSI: Each outflow valve will continue to operate normally.
 
-### CKPI selector
+### CKPT selector
 
 - COLD...HOT
     - The cockpit temperature is 24°C.

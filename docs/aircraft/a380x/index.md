@@ -50,7 +50,6 @@ WXR         Honeywell AESS
     Please see our initial list of available features below. Guides pending.
 
     [:octicons-arrow-right-24: Feature List](feature-guides/index.md)
-  philippe@dellaert.org
 </div>
 
 ## A380X Quick FAQ
