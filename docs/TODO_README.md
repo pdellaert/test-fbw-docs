@@ -103,6 +103,7 @@ is good enough for now but might be improved in the future.
             - [X] [OANS / BTV](pilots-corner/a380x/a380x-advanced-guides/oans-btv.md)
         - [X] [A380X Pilot Briefing](pilots-corner/a380x/a380x-briefing/index.md)
             - [X] [Flight-Deck](pilots-corner/a380x/a380x-briefing/flight-deck/index.md)
+                - [ ] [Thrust Levers](pilots-corner/a380x/a380x-briefing/flight-deck/pedestal/throttle.md) <span style="color: red;">TODO: Needs polishing</span> 
             - [ ] PFD <span style="color: red;">TODO</span>
             - [ ] ND <span style="color: red;">TODO</span>
             - [ ] EWD <span style="color: red;">TODO</span>
