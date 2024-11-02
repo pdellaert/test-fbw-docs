@@ -94,16 +94,16 @@ Moves the cursor to the display unit that is to the right, or to the left, of th
 
 ### CCD sw
 
--ON:
+- ON:
     - The KCCU cursor control device (trackball) is active.
--OFF:
+- OFF:
     - The KCCU cursor control device is inactive.
 
 ### KCCU sw
 
--ON:
+- ON:
     - The KCCU keyboard is active.
--OFF:
+- OFF:
     - The KCCU keyboard is inactive.
 
 ---
