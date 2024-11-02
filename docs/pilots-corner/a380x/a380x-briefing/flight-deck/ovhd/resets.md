@@ -11,7 +11,7 @@ description: The A380 Flight Deck Reset Panels description.
 
 ---
 
-=== block ""
+!!! block ""
     ![Reset Panels](../../../assets/a380x-briefing/flight-deck/ovhd/reset-left-panel.png "Reset Panels"){loading=lazy width=45% align=left}
     ![Reset Panels](../../../assets/a380x-briefing/flight-deck/ovhd/reset-right-panel.png "Reset Panels"){loading=lazy width=45% align=right}
 
