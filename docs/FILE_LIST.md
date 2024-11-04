@@ -52,8 +52,6 @@
         - [X] [Performance Tips](aircraft/support/performance-tips.md)
             - [X] [Thrustmaster T.Flight Rudder Pedal Settings](aircraft/support/detail-pages/rudder.md)
             - [X] [Reported Known Issues](aircraft/support/known-issues/index.md)
-
-
     - [X] [Development Corner Overview](dev-corner/index.md)
     - [X] [Quality Assurance Process](dev-corner/qa-process.md)
     - [X] [Tips for Scenery Developers](dev-corner/scenery-developers.md)
@@ -77,8 +75,6 @@
         - [X] [Website Development](dev-corner/development-projects/website.md)
             - [X] [FlyByWire Documentation Project](dev-corner/development-projects/documentation-project/documentation.md)
             - [X] [Writing Documentation](dev-corner/development-projects/documentation-project/writing-documentation.md)
-
-
     - [X] [Pilot's Corner Overview](pilots-corner/index.md)
         - [X] [Standard Operating Procedures](pilots-corner/a32nx/a32nx-sop.md)
         - [X] [Pilot's Corner A32NX Overview](pilots-corner/a32nx/index.md)
@@ -246,7 +242,6 @@
             - [X] [Overview](pilots-corner/a380x/a380x-beginner-guide/overview.md)
             - [X] [A380 Pilot Briefing](pilots-corner/a380x/a380x-briefing/index.md)
                 - [X] [Flight Deck Overview](pilots-corner/a380x/a380x-briefing/flight-deck/index.md)
-                - [X] [TODO List for .md Files in `docs/pilots-corner/a380x/a380x-briefing/flight-deck/`](pilots-corner/a380x/a380x-briefing/flight-deck/todo.md)
                     - [X] [Auto Flight System (AFS) Control Panel](pilots-corner/a380x/a380x-briefing/flight-deck/glareshield/afs.md)
                     - [X] [Electronic Flight Instrument System (EFIS) Panel](pilots-corner/a380x/a380x-briefing/flight-deck/glareshield/efis.md)
                     - [X] [Glareshield Side Panels](pilots-corner/a380x/a380x-briefing/flight-deck/glareshield/glare-side.md)
