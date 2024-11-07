@@ -17,7 +17,7 @@ especially the Airbus A320neo.
 ## Quick Links
 
 [Beginner Guide](a32nx-beginner-guide/overview.md){ .md-button }
-[Advanced Guides](a32nx-advanced-guides/overview.md){ .md-button }x§
+[Advanced Guides](a32nx-advanced-guides/overview.md){ .md-button }
 [A320neo Pilot Briefing](a32nx-briefing/index.md){ .md-button }
 
 ##  Topics
