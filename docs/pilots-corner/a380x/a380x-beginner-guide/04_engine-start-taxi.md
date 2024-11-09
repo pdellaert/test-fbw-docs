@@ -246,6 +246,7 @@ can proceed with the following steps.
     to the 2 position.
 `PITCH TRIM ......................................................... CHECK`<br/>
 ??? note "Pitch Trim"
+    ### Pitch Trim
     Verify that the pitch trim is set to the takeoff trim position. It is displayed on the primary flight display (PFD).
     
     [Pitch Trim Panel](../../a380x-briefing/flight-deck/pedestal/trim-panel) (located on the pedestal)
