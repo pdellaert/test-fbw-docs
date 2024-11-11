@@ -5,4 +5,6 @@ hide:
     - toc
 ---
 
-Welcome to FlyByWire Simulations documentation hub.
+Welcome to FlyByWire Simulations documentation hub. 
+
+**STRAKS IS THE COOLEST**
