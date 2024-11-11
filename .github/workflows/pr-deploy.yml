@@ -1,5 +1,5 @@
 # deploy-preview.yml
-name: Upload Preview Deployment
+name: PR Upload Preview to Cloudflar
 on:
   workflow_run:
     workflows: ['Build Preview Deployment']

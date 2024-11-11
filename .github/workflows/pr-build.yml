@@ -1,5 +1,5 @@
 # build-preview.yml
-name: Build Preview Deployment
+name: PR Build Preview for Cloudflare
 
 on:
   pull_request:
