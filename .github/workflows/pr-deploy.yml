@@ -1,8 +1,8 @@
 # deploy-preview.yml
-name: PR Upload Preview to Cloudflar
+name: PR Upload Preview to Cloudflare
 on:
   workflow_run:
-    workflows: ['Build Preview Deployment']
+    workflows: ['PR Build Preview for Cloudflare']
     types:
       - completed
 
