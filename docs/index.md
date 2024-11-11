@@ -6,3 +6,5 @@ hide:
 ---
 
 Welcome to FlyByWire Simulations documentation hub.
+
+**FBW DEVOPS IS THE COOLEST**
